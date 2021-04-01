@@ -41,7 +41,7 @@ const Header = () => {
   const classes = useStyles();
 
   function resume() {
-    window.location.href="https://drive.google.com/file/d/1q2VZc82Ycj1vB3aSDK9xVQ9AR182uhJ1/view?usp=sharing"
+    window.location.href="https://drive.google.com/file/d/1wS8BYpQc0TxwnYzJZJZafbJ4XeKOTKJr/view?usp=sharing"
     }
 
   return (
